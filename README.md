@@ -25,8 +25,9 @@ type "main.rb help for more information"
 
 ## **Assumption**:
 
-mark "%" for driver, "@" for store and "U" for User
-when command is type, user can only make 1 order
+- mark "%" for driver, "@" for store and "U" for User
+
+- when command is type, user can only make 1 order
 if user don't wanna order , program exit
 
 
