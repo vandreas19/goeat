@@ -7,7 +7,7 @@ Features :
 - Show Detail Order
 - Show Route
 - Rate Driver
-
+- Detail Driver in .txt file
 
 Show Map:
 
@@ -25,8 +25,10 @@ this app can be run by type "main.rb" on command prompt and the app will show th
 
 
 Assumption:
+
 mark "%" for driver, "@" for store and "U" for User
 
 
 License : None
+
 Author : Vicky Andreas
