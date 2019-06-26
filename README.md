@@ -11,10 +11,9 @@ Features :
 
 Show Map:
 
-There is 2 kind of Map
-
--ShowMap : 20 * 20 map with 5 random driver, 3 random store and 1 random user
--ShowMapByArgument (n, x ,y) : n * n map with 5 random driver, 3 random store, and user at point(x,y)
+There is 2 kind of Map:
+- ShowMap : 20 * 20 map with 5 random driver, 3 random store and 1 random user
+- ShowMapByArgument (n, x ,y) : n * n map with 5 random driver, 3 random store, and user at point(x,y)
 
 
 
