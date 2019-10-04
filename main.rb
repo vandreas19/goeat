@@ -139,6 +139,7 @@ class GoEat < Thor
         end
         
         #cari driver yang paling dekat ke user
+        #change
         jarak_driver_to_user = 10000 #
         jarak_toko_to_user = 0
         for i in @@rated_driver
